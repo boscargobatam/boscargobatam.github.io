@@ -1542,3 +1542,35 @@ section {
   border-bottom: 5px solid #fff;
   color: #261461;
 }
+
+.ri-truck-line{
+  font height: 20%;
+  font width: 100%;
+  font-size: 50px;
+  color:#fff;
+  
+}
+
+.ri-ship-2-line{
+  font height: 20%;
+  font width: 100%;
+  font-size: 50px;
+  color:#fff;
+
+}
+
+.ri-roadster-line{
+  font height: 20%;
+  font width: 100%;
+  font-size: 50px;
+  color:#fff;
+  
+}
+
+.ri-flight-takeoff-line{
+  font height: 20%;
+  font width: 100%;
+  font-size: 50px;
+  color:#fff;
+  
+}
